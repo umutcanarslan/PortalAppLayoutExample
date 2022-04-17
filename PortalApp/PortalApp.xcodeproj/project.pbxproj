@@ -70,7 +70,7 @@
 		80190647280ACF1A0055C6FC /* PortalApp */ = {
 			isa = PBXGroup;
 			children = (
-				802C648C280B5554001B6A04 /* UICompanent */,
+				802C648C280B5554001B6A04 /* UIComponent */,
 				80190656280ACF1D0055C6FC /* Info.plist */,
 				80190648280ACF1A0055C6FC /* AppDelegate.swift */,
 				8019064A280ACF1A0055C6FC /* SceneDelegate.swift */,
@@ -83,7 +83,7 @@
 			path = PortalApp;
 			sourceTree = "<group>";
 		};
-		802C648C280B5554001B6A04 /* UICompanent */ = {
+		802C648C280B5554001B6A04 /* UIComponent */ = {
 			isa = PBXGroup;
 			children = (
 				8019065E280B49990055C6FC /* GradientView.swift */,
@@ -91,7 +91,7 @@
 				802C648D280B5561001B6A04 /* CustomView.swift */,
 				802C6497280B5D66001B6A04 /* PortalButton.swift */,
 			);
-			path = UICompanent;
+			path = UIComponent;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
