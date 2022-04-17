@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BonMot",
+        "repositoryURL": "https://github.com/Rightpoint/BonMot",
+        "state": {
+          "branch": null,
+          "revision": "69dd5eba11694421418edc9063f3c7c02d069634",
+          "version": "6.0.0"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit",
+        "state": {
+          "branch": null,
+          "revision": "f222cbdf325885926566172f6f5f06af95473158",
+          "version": "5.6.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
